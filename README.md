@@ -1,12 +1,48 @@
-# React + Vite
+# Streamly 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and minimal Netflix-inspired web app built using HTML, CSS, and JavaScript.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Beautiful UI inspired by Netflix
+- Movie/show sections by genre
+- Hover effects and transitions
+- Responsive layout for desktop and mobile
+- Modular structure for easy scaling
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## 📸 Preview
+
+![Screenshot](./preview.png) <!-- Replace with your actual screenshot path or URL -->
+
+## 📁 Project Structure
+
+streamly/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── images/
+
+
+## 🧠 Future Plans
+
+- Add search functionality
+- Backend integration with a movie API (TMDb or similar)
+- User login and profile
+- Watchlist feature
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/samiksha-ss/streamly.git
+cd streamly
+open index.html
+
+🧑‍💻 Author
+@samiksha-ss
